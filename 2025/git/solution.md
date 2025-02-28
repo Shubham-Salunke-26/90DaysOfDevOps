@@ -1,5 +1,5 @@
 git --version
-git clone <https uls>
+git clone <https url>
 git init
 git add <file name>
 git commit -m "commit message"
